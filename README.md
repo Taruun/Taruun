@@ -56,8 +56,14 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
 ### Programming Languages & Skills
 
-<img src="https://raw.githubusercontent.com/Taruun/images/main/images/html-5.png?token=GHSAT0AAAAAABUYTDM76KKT52Q3I46R55TSYV5ZACQ" width="50" height = "55" > &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/css-3.png?token=GHSAT0AAAAAABUYTDM7BAHXN3NNT5BDABVKYV5Y7YQ" width="60" height="60"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/js%20(2).png?token=GHSAT0AAAAAABUYTDM63CNAVIOZ2AJMUFNWYV5ZA3A"  width="35" height = "60"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/atom.png?token=GHSAT0AAAAAABUYTDM7YR2XW6JBBGTCZXNYYV5Y7IA"  width="60" height = "60">
+<img src="https://raw.githubusercontent.com/Taruun/images/main/images/html-5.png?token=GHSAT0AAAAAABUYTDM7XXD5Z3E467JASRGSYV5Z5DQ" width="50" height = "55" > &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/css-3.png?token=GHSAT0AAAAAABUYTDM64BBD373LMEOFZWI6YV5Z4TQ" width="50
+55" height="50
+55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/js%20(2).png?token=GHSAT0AAAAAABUYTDM74GUWRM3TI4NMUK2YYV5Z6GQ"  width="50
+55" height = "50
+55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/atom.png?token=GHSAT0AAAAAABUYTDM7XLKODKCQ7M6DCYTQYV5ZZWA"  width="50
+55" height = "50
+55">
 
 ## Connect With Me:
 
-<a href="https://www.linkedin.com/in/tarun-shelar-617192190/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: tarunys2002@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://taruun.github.io/personal-website/"><img src="https://raw.githubusercontent.com/Taruun/images/main/images/web.png?token=GHSAT0AAAAAABUYTDM7XOCW5LBPDOILBU4QYV5ZBIA" width = "40px" height = "40px"></a>
+<a href="https://www.linkedin.com/in/tarun-shelar-617192190/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: tarunys2002@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://taruun.github.io/personal-website/"><img src="https://raw.githubusercontent.com/Taruun/images/main/images/web.png?token=GHSAT0AAAAAABUYTDM7WGRT7VLQ3FLHRAAOYV5Z7CQ" width = "40px" height = "40px"></a>
