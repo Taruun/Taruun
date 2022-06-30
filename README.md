@@ -19,14 +19,14 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
   - Implemented User Interface using Material UI
   - Modified defult map styles from **Snazzy Maps**
 
-         **Travel Around Application has following features :**
+  **Travel Around Application has following features :**
 
-         * Search different loactions around the world
-         * Get varities of restaurants, hotels, and attractions and info from desired location
-         * Filter restaurants, hotels, and attractions based on ratings
-         * keep track on weather across every locations
+       - Search different loactions around the world
+       - Get varities of restaurants, hotels, and attractions and info from desired location
+       - Filter restaurants, hotels, and attractions based on ratings
+       - keep track on weather across every locations
 
-    **Technologies and API :** REACT, MATERIAL UI, GOOGLE MAPS API, RAPID API
+  **Technologies and API :** REACT, MATERIAL UI, GOOGLE MAPS API, RAPID API
 
 - **yumster** 🥘🍞 | <a href = "https://yumster.vercel.app/"> GitHub</a>
 
