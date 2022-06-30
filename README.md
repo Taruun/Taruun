@@ -56,7 +56,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
 ### Programming Languages & Skills
 
-<img src="https://raw.githubusercontent.com/Taruun/images/main/images/html-5.png?token=GHSAT0AAAAAABUYTDM6HWC3JKTSCFTWIINYYV52PNQ"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/css-3.png?token=GHSAT0AAAAAABUYTDM6PBCUJNUZEDV33XQSYV52P7A"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/js%20(2).png?token=GHSAT0AAAAAABUYTDM6ZD6SJZYH4GWVVTGKYV52UPA"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/atom.png?token=GHSAT0AAAAAABUYTDM6CSNR3H6T46JAWJO2YV52RGQ"  width="50" height = "55">
+<img src="https://raw.githubusercontent.com/Taruun/images/main/images/html-5.png?token=GHSAT0AAAAAABUYTDM73635BZJ7MAYPQBB4YV52XKA"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/css-3.png?token=GHSAT0AAAAAABUYTDM6PBCUJNUZEDV33XQSYV52P7A"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/js%20(2).png?token=GHSAT0AAAAAABUYTDM6ZD6SJZYH4GWVVTGKYV52UPA"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/atom.png?token=GHSAT0AAAAAABUYTDM6CSNR3H6T46JAWJO2YV52RGQ"  width="50" height = "55">
 
 ## Connect With Me:
 
