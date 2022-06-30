@@ -60,7 +60,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 55" height="50
 55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/js%20(2).png?token=GHSAT0AAAAAABUYTDM74GUWRM3TI4NMUK2YYV5Z6GQ"  width="50
 55" height = "50
-55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/atom.png?token=GHSAT0AAAAAABUYTDM7XLKODKCQ7M6DCYTQYV5ZZWA"  width="50
+55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/images/atom.png?token=GHSAT0AAAAAABUYTDM7MHA2HIVYSPASVZDYYV52BZQ"  width="50
 55" height = "50
 55">
 
