@@ -11,7 +11,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
 ### Finished Works ✔️
 
-- **Travel Around - Find Restraurants, Hotels and Attraction around your location** 🗺️🌎 | <a href = "https://travel-aroound.netlify.app/"> GitHub</a>
+- **Travel Around - Find Restraurants, Hotels and Attraction around your location** 🗺️🌎 | <a href = "https://github.com/Taruun/Travel-Around-"> GitHub</a>
 
   - Utilized the **React Google Maps** to build and deployed advanced Travel Application
   - Utilized the **Google Maps API** for Geolocation and for searching diverse places
@@ -28,7 +28,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
   **Technologies and API :** REACT, MATERIAL UI, GOOGLE MAPS API, RAPID API
 
-- **yumster** 🥘🍞 | <a href = "https://yumster.vercel.app/"> GitHub</a>
+- **yumster** 🥘🍞 | <a href = "https://github.com/Taruun/yumster"> GitHub</a>
 
   - Design Food Recipe Application to get varied recipes with instructions and ingredients
   - Utilized the **Spoonacular API** to display several data dynamically
@@ -37,7 +37,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
     **Technologies and API :** REACT, SPOONACULAR API, FRAMER MOTION
 
-- **Mapty** 📍 | <a href = "https://taruun.github.io/mapty/"> GitHub</a>
+- **Mapty** 📍 | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
 
   - Design application to logs user's **Workouts** with input type of **Running** and **Cycling**
   - Intergreted **Leaflet** library to display map and Fetched cuurent position using **Geolocation**
@@ -47,7 +47,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
     **Technologies :** HTML, CSS, JAVASCRIPT, LEAFLET
 
-- **Expense Tracker** 💵💵 🔗 | <a href = "https://expense-tracker-azure-ten.vercel.app/"> GitHub</a>
+- **Expense Tracker** 💵💵 🔗 | <a href = "https://github.com/Taruun/Expese-Tracker"> GitHub</a>
 
   - Designed a expense tracker to track various expenses with title, amount and date
   - Implemented filter component to track yearly expenses with chart flow
