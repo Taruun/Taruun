@@ -7,7 +7,7 @@ My name is Tarun Shelar and I recently graduated with a Bachelor of Science in C
 
 ### Currently Working On 🚀
 
-- **TikTok clone using Typescript, Next.js and Tailwind** 📜⛏️|
+- **Twitter clone using Typescript, Next.js and Tailwind** 📜⛏️|
 
 ### Finished Works ✔️
 
