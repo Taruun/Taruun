@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Tarun Shelar and I recently graduated with a Bachelor of Science in Computer Science, moreover I love to create web applications with in Front-End stack.
+My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, moreover I love to create web applications with in Front-End stack.
 
-- 🌱 I’m currently Next.Js
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking for internship/full-time in Front-End position
 
 ### Currently Working On 🚀
