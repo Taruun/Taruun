@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, moreover I love to create web applications with in Front-End stack.
+My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, moreover I love to create web applications.
 
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking for internship/full-time in Front-End position
@@ -11,7 +11,7 @@ My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, m
 
 ### Finished Works ✔️
 
-- **Travel Around - Find Restaurants, Hotels and Attraction around your location** 🗺️🌎 | <a href = "https://github.com/Taruun/Travel-Around-"> GitHub</a>
+- **Travel Around - Find Restaurants, Hotels and Attraction around your location** 🗺️🌎 | <a href = "https://travel-aroound.netlify.app/"> Link</a>
 
   - Utilized the **React Google Maps** to build and deployed advanced Travel Application
   - Utilized the **Google Maps API** for Geolocation and for searching diverse places
