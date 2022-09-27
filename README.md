@@ -52,7 +52,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
     **Technologies :** HTML, CSS, REACT
 
 ### Programming Languages & Skills
-<img align="left" width="23%" src="https://raw.githubusercontent.com/Taruun/imgs/main/4900_7_04.jpg"><img src="https://raw.githubusercontent.com/Taruun/images/main/html-5.png" width="50px" height = "55px"/> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/css-3.png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/js%20(2).png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/atom.png"  width="50" height = "55">
+<img align="left" width="13%" src="https://raw.githubusercontent.com/Taruun/imgs/main/4900_7_04.jpg"><img src="https://raw.githubusercontent.com/Taruun/images/main/html-5.png" width="50px" height = "55px"/> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/css-3.png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/js%20(2).png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/atom.png"  width="50" height = "55">
 
 ## Find me around the web 🌎:
 
