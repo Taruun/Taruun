@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tarun 👋🧑‍🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Taruun/imgs/main/Astro.gif" height = "60%" />
