@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/Taruun/img/main/7457ba87693971.5dc05396b0ad4.gif?token=GHSAT0AAAAAABXKT6DKNISEQXYW6CS3SZKYYZS5R2Q.png" alt="Tarun Shelar">
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+
+
 My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, moreover I love to create web applications.
 
 - 🌱 I’m currently learning TypeScript
@@ -58,6 +62,6 @@ My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, m
 
 <img src="https://raw.githubusercontent.com/Taruun/images/main/html-5.png" width="50px" height = "55px"/> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/css-3.png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/js%20(2).png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/atom.png"  width="50" height = "55">
 
-## Connect With Me:
+## Find me around the web 🌎:
 
 <a href="https://www.linkedin.com/in/tarun-shelar-617192190/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: tarunys2002@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://taruun.github.io/personal-website/"><img src="https://raw.githubusercontent.com/Taruun/images/main/web.png" width = "40px" height = "40px"></a>
