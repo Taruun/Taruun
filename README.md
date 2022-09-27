@@ -5,7 +5,7 @@
 </p>
 
 ##
-<img align="right" height="13%" src="https://raw.githubusercontent.com/Taruun/imgs/main/Astronautss.gif"/>
+<img style="border-radius:1rem" align="right" height="13%" src="https://raw.githubusercontent.com/Taruun/imgs/main/Astronautss.gif"/>
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, moreover I love to create web applications.
