@@ -15,6 +15,8 @@ My name is Tarun Shelar and I am completing my Bachelor's in Computer Science, m
 ### Currently Working On 🚀
 
 - **Twitter clone using Typescript, Next.js and Tailwind** 📜⛏️|
+- 
+<img align="right" height="13%" src="https://raw.githubusercontent.com/Taruun/imgs/main/Astronautss.gif"/></div>
 
 ### Finished Works ✔️
 
