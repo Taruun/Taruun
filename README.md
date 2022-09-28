@@ -6,7 +6,7 @@
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
-### Applications that I have developed 🖥️
+### APPLICATIONS DEVELOPED 🖥️ :
 <img align="right" width="23%" src="https://raw.githubusercontent.com/Taruun/imgs/main/astrooo.jpg ">
 
 
@@ -53,7 +53,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
     **Technologies :** HTML, CSS, REACT
 
-### Skills Gained
+### SKILLS GAINED
 <img align="left" width="23%" src="https://raw.githubusercontent.com/Taruun/imgs/main/4900_7_04.jpg"><img src="https://raw.githubusercontent.com/Taruun/images/main/html-5.png" width="50px" height = "55px"/> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/css-3.png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/js%20(2).png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/atom.png"  width="50" height = "55">
 
 ## Find me around the web 🌎:
