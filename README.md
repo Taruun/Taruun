@@ -1,4 +1,4 @@
-<h1 margin ="10px" align ="center"><img src="https://raw.githubusercontent.com/Taruun/imgs/main/0ee58946f8b3832204d39c0b429d8d9a.gif" width="105px"> 
+<h1 margin ="10px" align ="center"><img src="https://raw.githubusercontent.com/Taruun/imgs/main/0ee58946f8b3832204d39c0b429d8d9a.gif?token=GHSAT0AAAAAAB2UIAGUKTXAAHIDIL7QPEE2Y3KTMIA" width="105px"> 
 Bonjour, I'm Tarun! </h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai, India. I am currently pursuing my Bachelor degree in Computer Science from Pillai HOC College Of Engineering & Technology, Navi Mumbai.
