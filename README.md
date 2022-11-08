@@ -1,6 +1,4 @@
-### Hi, I'm Tarun 👋🧑‍🚀
-
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hola, I'm Tarun! 👋🧑‍🚀</h1>
+<h1 align = "center"><img src="https://raw.githubusercontent.com/Taruun/imgs/main/titano-rocket.gif" width="55px"> Hola, I'm Tarun! 👋🧑‍🚀</h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
 
