@@ -1,22 +1,41 @@
-<h1 align = "center"><img src="https://raw.githubusercontent.com/Taruun/imgs/main/titano-rocket.gif" width="55px"> Hola, I'm Tarun! 👋🧑‍🚀</h1>
+<h1 margin ="10px" align ="center"><img src="https://raw.githubusercontent.com/Taruun/imgs/main/0ee58946f8b3832204d39c0b429d8d9a.gif" width="105px"> 
+Bonjour, I'm Tarun! </h1>
 
-I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
+I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai, India. I am currently pursuing my Bachelor degree in Computer Science from Pillai HOC College Of Engineering & Technology, Navi Mumbai.
 
 
-## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
+## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Projects: 
+#### AIRSHOP | <a href = "https://github.com/Taruun/Full-Stack-App"> GitHub</a>
+-	Developed responsive Full stack E-commerce web application using strapi serving dynamic backend with NextJs as the frontend.
+-	Graphql is used to retrieve a wide range of products.
+-	Integrated Auth0 for user authentication enables rapid and safe login for users. Stripe has been implemented for secure, multiple-currency payments with extra functionality.
+-	Optimized images with Cloudinary.
+-	
+#### TRAVEL AROUND | <a href = "https://travel-aroound.netlify.app/"> GitHub</a>
+- Created an interactive web application using react allowing users to get traveling information around their desired **destination**.
+- A **user-friendly UI** and integrated **Google Maps** and **Rapid API** make it simple for users to gather data on the map and apply **rating filter**. 
+- Redesigned Map styles and improved user interface using Material UI.
 
+#### YUMSTER |  <a href = "https://github.com/Taruun/yumster"> GitHub</a>
+-	Developed food recipe application to provide a variety of recipes along with instructions and ingredients. Hosted on Amazon Web Service (AWS) Amplify Platform.
+-	Spoonacular API was added to search data dynamically, and several features were developed to enable users to search for and obtain a variety of recipes from various cuisines.
+
+#### MAPTY | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
+
+  - Design application to logs user's **Workouts** with input type of **Running** and **Cycling**
+  - Integrated **Leaflet** library to display map and Fetched current position using **Geolocation**
+  - Implemented function display workouts with respective features and functions that would store user data
+  - Design different styles for each workouts
 
 <br>
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/Taruun/imgs/main/icons8-planet-60.png?token=GHSAT0AAAAAAB2UIAGVFOOSDA4L4KNCDTIYY3KTD4A" title="Next"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
-<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
@@ -38,70 +57,14 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 <!-- <a href="https://www.codechef.com/users/saumyasingh203/">![CodeChef Badge](https://cp-logo.vercel.app/codechef/saumyasingh203?logo=true) </a>
 <a href="https://codeforces.com/profile/saumya_singh203">![CodeForces Badge](https://cp-logo.vercel.app/codeforces/saumya_singh203?logo=true) </a>
-<a href="https://leetcode.com/saumyasingh203/">![LeetCode Badge](https://cp-logo.vercel.app/leetcode/saumyasingh203?logo=true)</a> --> -->
+<a href="https://leetcode.com/saumyasingh203/">![LeetCode Badge](https://cp-logo.vercel.app/leetcode/saumyasingh203?logo=true)</a> -->
 
  
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+
 <code><a href="https://www.linkedin.com/in/saumyasingh203/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://www.instagram.com/saumya._.singh"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
+<code><a href=""><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="mailto:saumya.singh203@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
-
-
-
-### GENERATED APPLICATIONS BY ME 🖥️ :
-
-
- ***Travel Around - Find Restaurants, Hotels and Attraction around your location*** 🗺️🌎 | <a href = "https://travel-aroound.netlify.app/"> Link</a>
-
-  - Utilized the **React Google Maps** to build and deployed advanced Travel Application
-  - Utilized the **Google Maps API** for Geolocation and for searching diverse places
-  - Integrated specialized **Rapid API** to fetch data from unlimited sources based on location as well as for filtering data
-  - Implemented User Interface using Material UI
-  - Modified default map styles from **Snazzy Maps**
-
-  **Travel Around Application has following features :**
-
-       - Search different locations around the world
-       - Get varieties of restaurants, hotels, and attractions and info from desired location
-       - Filter restaurants, hotels, and attractions based on ratings
-       - keep track on weather across every locations
-
-  **Technologies and API :** REACT, MATERIAL UI, GOOGLE MAPS API, RAPID API
-
- ***Yumster*** 🥘🍞 | <a href = "https://github.com/Taruun/yumster"> GitHub</a>
-
-  - Design Food Recipe Application to get varied recipes with instructions and ingredients
-  - Utilized the **Spoonacular API** to display several data dynamically
-  - Utilized react router to route between components dynamically
-  - Implemented search and filter components to get different cuisines
-
-    **Technologies and API :** REACT, SPOONACULAR API, FRAMER MOTION
-
- ***Mapty*** 📍 | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
-
-  - Design application to logs user's **Workouts** with input type of **Running** and **Cycling**
-  - Integrated **Leaflet** library to display map and Fetched current position using **Geolocation**
-  - Implemented function display workouts with respective features
-  - Implemented functions that would store user data
-  - Design different styles for each workouts
-
-    ***Technologies :*** HTML, CSS, JAVASCRIPT, LEAFLET
-
- ***Expense Tracker*** 💵💵 🔗 | <a href = "https://github.com/Taruun/Expese-Tracker"> GitHub</a>
-
-  - Designed expense tracker to track various expenses with title, amount and date
-  - Implemented filter component to track yearly expenses with chart flow
-
-    **Technologies :** HTML, CSS, REACT
-
-### Technologies that I enjoy using : 
- <img src="https://raw.githubusercontent.com/Taruun/images/main/html-5.png" width="50px" height = "55px"/> &nbsp; 
- <img src="https://raw.githubusercontent.com/Taruun/images/main/css-3.png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/js%20(2).png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/atom.png"  width="50" height = "55">
-
-### GO AFTER ME ON THE EARTH🌎 :
-
-<a href="https://www.linkedin.com/in/tarun-shelar-617192190/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: tarunys2002@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://taruun.github.io/personal-website/"><img src="https://raw.githubusercontent.com/Taruun/images/main/web.png" width = "40px" height = "40px"></a>
-<img align="right" width="23%" src="https://raw.githubusercontent.com/Taruun/imgs/main/astrooo.jpg ">
