@@ -10,7 +10,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai,
 -	Graphql is used to retrieve a wide range of products.
 -	Integrated Auth0 for user authentication enables rapid and safe login for users. Stripe has been implemented for secure, multiple-currency payments with extra functionality.
 -	Optimized images with Cloudinary.
--	
+
 #### TRAVEL AROUND | <a href = "https://travel-aroound.netlify.app/"> GitHub</a>
 - Created an interactive web application using react allowing users to get traveling information around their desired **destination**.
 - A **user-friendly UI** and integrated **Google Maps** and **Rapid API** make it simple for users to gather data on the map and apply **rating filter**. 
