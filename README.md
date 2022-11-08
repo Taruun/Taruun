@@ -34,7 +34,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai,
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/Taruun/imgs/main/icons8-planet-60.png?token=GHSAT0AAAAAAB2UIAGVFOOSDA4L4KNCDTIYY3KTD4A" title="Next"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/Taruun/imgs/main/icons8-planet-60.png?token=GHSAT0AAAAAAB2UIAGUV5YQJYUIAFQTLCR4Y3KTNWQ"></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
