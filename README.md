@@ -6,7 +6,7 @@
 
 
 
-### APPLICATIONS DEVELOPED 🖥️ :
+### GENERATED APPLICATIONS BY ME 🖥️ :
 
 
  ***Travel Around - Find Restaurants, Hotels and Attraction around your location*** 🗺️🌎 | <a href = "https://travel-aroound.netlify.app/"> Link</a>
@@ -52,11 +52,11 @@
 
     **Technologies :** HTML, CSS, REACT
 
-### SKILLS GAINED : 
+### Technologies that I enjoy using : 
  <img src="https://raw.githubusercontent.com/Taruun/images/main/html-5.png" width="50px" height = "55px"/> &nbsp; 
  <img src="https://raw.githubusercontent.com/Taruun/images/main/css-3.png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/js%20(2).png"  width="50" height = "55"> &nbsp; <img src="https://raw.githubusercontent.com/Taruun/images/main/atom.png"  width="50" height = "55">
 
-### FIND ME ON THE PLANET🌎 :
+### GO AFTER ME ON THE EARTH🌎 :
 
 <a href="https://www.linkedin.com/in/tarun-shelar-617192190/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: tarunys2002@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://taruun.github.io/personal-website/"><img src="https://raw.githubusercontent.com/Taruun/images/main/web.png" width = "40px" height = "40px"></a>
 <img align="right" width="23%" src="https://raw.githubusercontent.com/Taruun/imgs/main/astrooo.jpg ">
