@@ -12,8 +12,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai,
 -	Optimized images with Cloudinary.
 
 #### TRAVEL AROUND | <a href = "https://travel-aroound.netlify.app/"> GitHub</a>
-- Created an interactive web application using react allowing users to get traveling information around their desired **destination**.
-- A **user-friendly UI** and integrated **Google Maps** and **Rapid API** make it simple for users to gather data on the map and apply **rating filter**. 
+- Created an interactive web application using react allowing users to get traveling information around their desired destination.
+- A user-friendly UI and integrated Google Maps and Rapid API make it simple for users to gather data on the map and apply rating filter. 
 - Redesigned Map styles and improved user interface using Material UI.
 
 #### YUMSTER |  <a href = "https://github.com/Taruun/yumster"> GitHub</a>
@@ -22,8 +22,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai,
 
 #### MAPTY | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
 
-  - Design application to logs user's **Workouts** with input type of **Running** and **Cycling**
-  - Integrated **Leaflet** library to display map and Fetched current position using **Geolocation**
+  - Design application to logs user's Workouts with input type of Running and Cycling
+  - Integrated Leaflet library to display map and Fetched current position using Geolocation
   - Implemented function display workouts with respective features and functions that would store user data
   - Design different styles for each workouts
 
