@@ -5,22 +5,22 @@ I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai,
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Projects: 
-#### AIRSHOP | <a href = "https://github.com/Taruun/Full-Stack-App"> GitHub</a>
+#### Airshop | <a href = "https://github.com/Taruun/Full-Stack-App"> GitHub</a>
 -	Developed responsive Full stack E-commerce web application using strapi serving dynamic backend with NextJs as the frontend.
 -	Graphql is used to retrieve a wide range of products.
 -	Integrated Auth0 for user authentication enables rapid and safe login for users. Stripe has been implemented for secure, multiple-currency payments with extra functionality.
 -	Optimized images with Cloudinary.
 
-#### TRAVEL AROUND | <a href = "https://travel-aroound.netlify.app/"> GitHub</a>
+#### Travel Around | <a href = "https://travel-aroound.netlify.app/"> GitHub</a>
 - Created an interactive web application using react allowing users to get traveling information around their desired destination.
 - A user-friendly UI and integrated Google Maps and Rapid API make it simple for users to gather data on the map and apply rating filter. 
 - Redesigned Map styles and improved user interface using Material UI.
 
-#### YUMSTER |  <a href = "https://github.com/Taruun/yumster"> GitHub</a>
+#### Yumster |  <a href = "https://github.com/Taruun/yumster"> GitHub</a>
 -	Developed food recipe application to provide a variety of recipes along with instructions and ingredients. Hosted on Amazon Web Service (AWS) Amplify Platform.
 -	Spoonacular API was added to search data dynamically, and several features were developed to enable users to search for and obtain a variety of recipes from various cuisines.
 
-#### MAPTY | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
+#### Mapty | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
 
   - Design application to logs user's Workouts with input type of Running and Cycling
   - Integrated Leaflet library to display map and Fetched current position using Geolocation
@@ -34,7 +34,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in Navi Mumbai,
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/Taruun/imgs/main/icons8-planet-60.png?token=GHSAT0AAAAAAB2UIAGUV5YQJYUIAFQTLCR4Y3KTNWQ"></code>
+<code><img width="36px" src="https://raw.githubusercontent.com/Taruun/imgs/main/icons8-planet-60.png?token=GHSAT0AAAAAAB2UIAGUV5YQJYUIAFQTLCR4Y3KTNWQ"></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
