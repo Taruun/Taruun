@@ -50,8 +50,8 @@ An enthusiastic programmer, Constantly driven to learn and explore new technolog
  
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
-<!-- 
-<code><a href="https://www.linkedin.com/in/tarun-s-617192190/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code> -->
+
+<code><a href="https://www.linkedin.com/in/tarun-s-617192190/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href=""><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="mailto:tarunys2002@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
