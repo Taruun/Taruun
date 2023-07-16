@@ -56,3 +56,4 @@ An enthusiastic programmer, Constantly driven to learn and explore new technolog
 <code><a href="mailto:tarunys2002@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taruun&theme=highcontrast" alt="Taruun" />
