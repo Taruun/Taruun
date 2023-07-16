@@ -1,7 +1,6 @@
 <h1 margin ="10px" align ="center"><img src="https://raw.githubusercontent.com/Taruun/imgs/main/0ee58946f8b3832204d39c0b429d8d9a.gif?token=GHSAT0AAAAAAB2UIAGUKTXAAHIDIL7QPEE2Y3KTMIA" width="105px"> 
 Ciao, I'm Tarun! </h1>
-
-An enthusiastic programmer, Constantly driven to learn and explore new technologies with the intention of becoming the best version of myself each day!
+<h4 align ="center">An enthusiastic programmer, Constantly driven to learn and explore <br> new technologies with the intention of becoming the best version of myself each day! </h4>
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Projects: 
 #### Airshop | <a href = "https://github.com/Taruun/Full-Stack-App"> GitHub</a>
