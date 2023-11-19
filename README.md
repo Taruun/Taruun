@@ -55,4 +55,5 @@ Ciao, I'm Tarun! </h1>
 <code><a href="mailto:tarunys2002@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taruun&theme=highcontrast" alt="Taruun" />
+
+<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Taruun&theme=tokyonight"></th>
