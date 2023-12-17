@@ -18,13 +18,6 @@ Ciao, I'm Tarun! </h1>
 -	Developed food recipe application to provide a variety of recipes along with instructions and ingredients. Hosted on Amazon Web Service (AWS) Amplify Platform.
 -	Spoonacular API was added to search data dynamically, and several features were developed to enable users to search for and obtain a variety of recipes from various cuisines.
 
-#### Mapty | <a href = "https://github.com/Taruun/mapty"> GitHub</a>
-
-  - Design application to logs user's Workouts with input type of Running and Cycling
-  - Integrated Leaflet library to display map and Fetched current position using Geolocation
-  - Implemented function display workouts with respective features and functions that would store user data
-  - Design different styles for each workouts
-
 <br>
 
 
