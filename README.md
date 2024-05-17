@@ -2,7 +2,7 @@
 Ciao, I'm Tarun! </h1>
 <h4 align ="center">An enthusiastic programmer, Constantly driven to learn and explore <br> new technologies with the intention of becoming the best version of myself each day! </h4>
 
-## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="90px" alt="Work Img"> Projects:
+## <img src="https://github.com/Taruun/Taruun/assets/77426941/081e7ca8-f7e3-442e-9928-ef75a9cd0762" width="52px" alt="Work Img"> Projects:
 #### Airshop | <a href = "https://github.com/Taruun/Full-Stack-App"> GitHub</a>
 -	Developed responsive Full stack E-commerce web application using strapi serving dynamic backend with NextJs as the frontend.
 -	Graphql is used to retrieve a wide range of products.
@@ -21,7 +21,7 @@ Ciao, I'm Tarun! </h1>
 <br>
 
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
+## <img src="https://github.com/Taruun/Taruun/assets/77426941/4fe6fdcb-dc19-4828-8dfb-8602ad3c83ea" width="52px" alt="Code Img"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
@@ -38,10 +38,11 @@ Ciao, I'm Tarun! </h1>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 
 
+<br>
 
- 
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+
+## <img src="https://github.com/Taruun/Taruun/assets/77426941/ec17f301-8242-4eae-b095-1fafdc3c5f95" width="42px" alt="Work Img"> Lets Connect!
 
 <code><a href="https://www.linkedin.com/in/tarun-s-617192190/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href=""><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
