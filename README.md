@@ -39,6 +39,7 @@ Ciao, I'm Tarun! </h1>
 
 
 <br>
+<br>
 
 
 
@@ -48,6 +49,7 @@ Ciao, I'm Tarun! </h1>
 <code><a href=""><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="mailto:tarunys2002@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
+<br>
 <br>
 
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Taruun&theme=tokyonight"></th>
