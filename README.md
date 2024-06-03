@@ -1,7 +1,7 @@
 <h1 margin ="10px" align ="center"><img src="https://github.com/Taruun/Taruun/assets/77426941/3be81a47-2c40-49ce-9744-84032426afac" width="150px" alt="Rocket Img">
 Ciao, I'm Tarun! </h1>
 
-<div align ="center"><img src="https://github.com/Taruun/imgs/blob/e68a504a75e49bdf77ccb74ed99b1f769261571e/main-img.gif" width="" alt="Code Img"></div>
+<div margin ="10px" align ="center"><img src="https://github.com/Taruun/imgs/blob/e68a504a75e49bdf77ccb74ed99b1f769261571e/main-img.gif" width="" alt="Code Img"></div>
 
 <br>
 
